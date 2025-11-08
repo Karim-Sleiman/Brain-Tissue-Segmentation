@@ -55,11 +55,8 @@ While **deep learning** methods excel at learning complex texture and spatial fe
 ---
 
 ## 📊 Results  
-| Approach | Strength | Limitation |  
-|-----------|-----------|-------------|  
-| **2D / 2.5D / 3D UNet** | High accuracy, strong feature extraction | Requires large data and computation |  
-| **Multi-Atlas + Tissue Models** | Spatially interpretable, low data need | Sensitive to registration quality |  
-| **Hybrid View** | Balances data-driven power with structural priors | Increased system complexity |  
+The results of this project are shown in the Table below. We evaluated our segmentation on some convolutional UNet architecture and we compared our approaches to a reference which is nnUNet.
+![image](https://github.com/user-attachments/assets/faa83dd4-62ed-4779-98b8-98fa13f6e303) 
 
 ---
 
@@ -78,4 +75,7 @@ This synergy paves the way for more **reliable, explainable, and clinically appl
 
 ## 👥 Contributors  
 - [Karim Sleiman]  
-- [Mohamad El Zein]  
+- [Mohamad El Zein]
+
+## ℹ️ Report 
+The scientific report is available upon request.
