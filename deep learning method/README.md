@@ -21,9 +21,6 @@ The explanation of training and validation process for each approach is summariz
 2.5D Apprach for Training UNet
 ![image](https://github.com/user-attachments/assets/eb09286e-72c2-4428-802c-18ad8316d1e1)
 3D Patch Based Apprach for Training UNet
-# Results
-The results of this project are shown in the Table below. We evaluated our segmentation on some convolutional UNet architecture and we compared our approaches to a reference which is nnUNet.
-![image](https://github.com/user-attachments/assets/faa83dd4-62ed-4779-98b8-98fa13f6e303)
 
 
 
